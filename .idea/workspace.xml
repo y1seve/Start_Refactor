@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38a48e91-2e0b-40d9-8f52-185ed16d8a6c" name="Default" comment="" />
+    <list default="true" id="38a48e91-2e0b-40d9-8f52-185ed16d8a6c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/refactor/chapter1/entity/Customer.java" afterPath="$PROJECT_DIR$/src/com/refactor/chapter1/entity/Customer.java" />
+    </list>
     <ignored path="Start_Refactor.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -56,8 +58,8 @@
       <file leaf-file-name="Customer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/refactor/chapter1/entity/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+            <state relative-caret-position="617">
+              <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#272#280#0" expanded="true" />
@@ -67,8 +69,6 @@
                 <element signature="e#420#421#0" expanded="true" />
                 <element signature="e#451#452#0" expanded="true" />
                 <element signature="e#479#480#0" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -544,8 +544,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/refactor/chapter1/entity/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        <state relative-caret-position="617">
+          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#272#280#0" expanded="true" />
@@ -555,8 +555,6 @@
             <element signature="e#420#421#0" expanded="true" />
             <element signature="e#451#452#0" expanded="true" />
             <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
           </folding>
         </state>
       </provider>
