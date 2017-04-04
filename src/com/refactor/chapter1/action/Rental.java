@@ -6,7 +6,7 @@ import com.refactor.chapter1.entity.Movie;
  * Created by Jim on 17/4/2.
  */
 public class Rental {
-    private Movie _movie;
+    public Movie _movie;
     private int _daysRented;
 
     public Rental(Movie movie, int daysRented) {
@@ -22,4 +22,11 @@ public class Rental {
         return _movie;
     }
 
+    public double getCharge() {
+        return _movie.getCharge(_daysRented);
+    }
+
+    public int getFrequentRenterPoints() {
+        return _movie.getFrequentRenterPoints(_daysRented);
+    }
 }
