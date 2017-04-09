@@ -13,7 +13,8 @@ import org.junit.runners.Suite;
     CalculatorTest.class,
     CalculatorTest01.class,
     TestMethodOrder.class,
-    TestExecution.class
+    TestExecution.class,
+    TestAssume.class
 })
 public class FeatureTestSuite {
     //the class remains empty,
